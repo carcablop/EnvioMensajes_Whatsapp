@@ -1,0 +1,17 @@
+# .gitignore
+
+# 1. Ignorar archivos de sesión y logs
+# CRÍTICO: No subir la sesión de WhatsApp/Chrome.
+whatsapp_session/
+
+# 2. Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+
+# 3. Ignorar archivos de paquetes
+# Carpeta de entornos virtuales (si usas 'venv' o 'env')
+venv/
+env/
+
+#4 Ignorar archivos .csv
+*.csv
