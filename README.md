@@ -20,7 +20,7 @@ Script de Python para enviar mensajes masivos a una lista de contactos usando Wh
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone [https://github.com/carcablop/ENVIAMENSAJES_WHATSAPP_COMUNIDAD.git](https:/)
+git clone https://github.com/carcablop/EnvioMensajes_Whatsapp.git
 cd ENVIAMENSAJES_WHATSAPP_COMUNIDAD
 ```
 ### 2. Crear y activar entorno virtual env 
