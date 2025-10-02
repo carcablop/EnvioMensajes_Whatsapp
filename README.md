@@ -21,7 +21,7 @@ Script de Python para enviar mensajes masivos a una lista de contactos usando Wh
 
 ```bash
 git clone https://github.com/carcablop/EnvioMensajes_Whatsapp.git
-cd ENVIAMENSAJES_WHATSAPP_COMUNIDAD
+cd EnvioMensajes_Whatsapp
 ```
 ### 2. Crear y activar entorno virtual env 
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 nombre: El nombre de la persona.
 
-numero: El número de teléfono. DEBE incluir el código de país (ej. 57300... para Colombia). El script intentará añadir 57 si no lo tiene, ¡pero es mejor que sea correcto desde el origen!
+numero: El número de teléfono. Debe incluir el código de país (ej. 57300... para Colombia). El script intentará añadir 57 si no lo tiene, ¡pero es mejor que sea correcto desde el origen!
 
 
 ### 5. Ejecuccion del script
